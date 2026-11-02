@@ -1,0 +1,14 @@
+{
+  "name": "Sunny Side Up",
+  "short_name": "Sunny Side Up",
+  "description": "15 good news stories every morning: Mississippi Coast, national and global.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff4ec",
+  "theme_color": "#ff7a59",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

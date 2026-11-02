@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-02",
+  "dateLabel": "Monday, November 2",
+  "quote": {
+    "text": "Optimism is the faith that leads to achievement.",
+    "author": "Helen Keller"
+  },
+  "top": ["l1", "g1", "n2"],
+  "sections": {
+    "local": [
+      {
+        "id": "l1",
+        "title": "Students plant 4,000 marsh plants at Fountain Pier Park",
+        "summary": "Dozens of South Mississippi students waded in to restore a stretch of D'Iberville shoreline, setting out thousands of marsh plants that were grown for the project. The new marsh helps hold the shore in place and gives fish and birds a home.",
+        "place": "D'Iberville",
+        "topic": "Animals & environment",
+        "source": "WLOX",
+        "url": "https://www.wlox.com/2026/11/01/students-plant-4000-marsh-plants-dibervilles-fountain-pier-park/"
+      },
+      {
+        "id": "l2",
+        "title": "'Cultured Pearls' deliver handmade quilts to cancer patients",
+        "summary": "Members of Alpha Kappa Alpha's Theta Zeta Omega chapter sewed quilts from donated fabric and delivered them Friday to the Singing River Cancer Center, so patients have something warm and personal during treatment.",
+        "place": "Pascagoula",
+        "topic": "Kindness & community",
+        "source": "WLOX",
+        "url": "https://www.wlox.com/2026/11/01/cultured-pearls-craft-quilts-singing-river-cancer-patients/"
+      },
+      {
+        "id": "l3",
+        "title": "Volunteers bring Biloxi's D'Anella Park back to life",
+        "summary": "The Biloxi Bombers Foundation held a work day laying sod and fixing up the ballfield where generations of local kids learned the game, so it stays ready for the next generation.",
+        "place": "Biloxi",
+        "topic": "Kindness & community",
+        "source": "WLOX",
+        "url": "https://www.wlox.com/2026/11/01/biloxi-bombers-foundation-holds-work-day-restore-danella-park-future-generations/"
+      },
+      {
+        "id": "l4",
+        "title": "Poplarville finally gets a permanent post office",
+        "summary": "After years of making do with a temporary mobile unit, Poplarville cut the ribbon on its new post office Friday, with residents, local leaders and postal workers celebrating together.",
+        "place": "Poplarville",
+        "topic": "Progress & solutions",
+        "source": "WLOX",
+        "url": "https://www.wlox.com/2026/10/30/poplarville-post-office-celebrates-grand-opening-after-years-temporary-mobile-unit/"
+      },
+      {
+        "id": "l5",
+        "title": "More than 1,000 dogs signed up for the Mardi Paw dog show",
+        "summary": "The four-day Mardi Paw Cluster Dog Show drew over a thousand canine entries, and organizers expect visitors to spend close to $1 million at Coast businesses while they're in town.",
+        "place": "Mississippi Coast",
+        "topic": "Animals & environment",
+        "source": "WLOX",
+        "url": "https://www.wlox.com/2026/10/30/more-than-1000-dogs-registered-2026-mardi-paw-cluster-dog-show/"
+      }
+    ],
+    "national": [
+      {
+        "id": "n1",
+        "title": "Pittsburgh nurses win the nation's first countywide paid parental leave",
+        "summary": "Nurses who watched parents rush back to work while their babies were still in intensive care helped pass a 12-week paid leave policy in Allegheny County, Pennsylvania, covering birth, adoption and foster placement.",
+        "place": "Pennsylvania",
+        "topic": "Kindness & community",
+        "source": "Good Good Good",
+        "url": "https://www.goodgoodgood.co/articles/pittsburgh-nurses-12-week-paid-parental-leave"
+      },
+      {
+        "id": "n2",
+        "title": "New brain-stimulation treatment puts most PTSD patients into remission",
+        "summary": "A personalized brain stimulation therapy, now cleared by the FDA, brought about two-thirds of trial participants into remission from PTSD and cut symptoms by roughly half overall.",
+        "place": "United States",
+        "topic": "Science & health wins",
+        "source": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
+      },
+      {
+        "id": "n3",
+        "title": "Rescued sea otters shoot hoops with pumpkins at the Oregon Zoo",
+        "summary": "The zoo shared footage of its rescued otters batting pumpkins through a little hoop for Halloween. Keepers say playful enrichment like this keeps the animals curious and healthy.",
+        "place": "Portland, Oregon",
+        "topic": "Animals & environment",
+        "source": "Good Good Good",
+        "url": "https://www.goodgoodgood.co/articles/otters-playing-basketball-halloween-pumpkins"
+      },
+      {
+        "id": "n4",
+        "title": "Spooky yard displays have raised $1.2 million for St. Jude",
+        "summary": "What began as one North Carolina family going overboard with skeletons is now Skeletons for St. Jude, with 600-plus households decorating to fund children's cancer research. This year's goal is $2 million.",
+        "place": "Nationwide",
+        "topic": "Kindness & community",
+        "source": "Good Good Good",
+        "url": "https://www.goodgoodgood.co/articles/halloween-2026-skeletons-for-st-jude-cancer"
+      },
+      {
+        "id": "n5",
+        "title": "Texas man thrifts all year to give kids free Halloween costumes",
+        "summary": "Remembering when his own family couldn't afford costumes, Christophe Waggoner started October's Child. He has given away more than 8,000 costumes and expected to hand out about 4,000 this year alone.",
+        "place": "Texas",
+        "topic": "Kindness & community",
+        "source": "Woman's World",
+        "url": "https://www.womansworld.com/life/relationships/texas-man-gives-away-8000-halloween-costumes-i-know-what-its-like"
+      }
+    ],
+    "global": [
+      {
+        "id": "g1",
+        "title": "Personalized mRNA vaccine cuts melanoma's return by 42%",
+        "summary": "In a large late-stage trial, a vaccine built from each patient's own tumor and given alongside immunotherapy cut the risk of skin cancer coming back or death by 42%. Doctors called it a whole new approach to treating cancer.",
+        "place": "UK & Australia",
+        "topic": "Science & health wins",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia"
+      },
+      {
+        "id": "g2",
+        "title": "Wild tigers and leopards rebound in China's first national parks",
+        "summary": "Five years after the parks opened, wild Siberian tigers have grown from 27 to 72 and Amur leopards from 42 to 115, as forests, rivers and wildlife corridors recover.",
+        "place": "China",
+        "topic": "Animals & environment",
+        "source": "China Daily",
+        "url": "https://global.chinadaily.com.cn/a/202610/13/WS6acd8ab2e4b06d4aa0562732.html"
+      },
+      {
+        "id": "g3",
+        "title": "Six baby dolphins born in the Mekong this year",
+        "summary": "Cambodia's rare Irrawaddy dolphins welcomed six calves, bringing the river's population to 118. Local communities consider the dolphins sacred.",
+        "place": "Cambodia",
+        "topic": "Animals & environment",
+        "source": "Good Good Good",
+        "url": "https://www.goodgoodgood.co/articles/mekong-river-irrawaddy-dolphins-cambodia"
+      },
+      {
+        "id": "g4",
+        "title": "A whole island turns off its lights to guide baby seabirds",
+        "summary": "Corvo, a tiny Azores island of about 450 people, is going dark for nearly three weeks so young shearwaters can follow the stars out to sea instead of crashing inland.",
+        "place": "Azores, Portugal",
+        "topic": "Animals & environment",
+        "source": "Positive News",
+        "url": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/"
+      },
+      {
+        "id": "g5",
+        "title": "Kenya secures $160 million to protect its wildest lands",
+        "summary": "The new Thamani Asili program, meaning \"value of nature\" in Kiswahili, will protect about 173,000 square kilometers of biodiversity hotspots.",
+        "place": "Kenya",
+        "topic": "Progress & solutions",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/environment/kenya-seals-160-million-conservation-finance-deal-2026-10-21/"
+      }
+    ]
+  }
+}
